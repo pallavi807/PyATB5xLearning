@@ -7,8 +7,6 @@ age=60
 # an underscore (_) followed by zero or more letters.
 # underscores, and digits (0-9).
 # Python is case-sensitive name, Name both are different.
-age=60
 Age=70
 _age=50
-_=+1
 

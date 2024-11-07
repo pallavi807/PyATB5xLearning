@@ -6,10 +6,7 @@ print(c)
 
 #data types
 age=25
-name="pallavi"
 percentage=66.35
 
-print(age,name,percentage)
 print(type(age))
-print(type(name))
 print(type(percentage))
